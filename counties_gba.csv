@@ -1,0 +1,20 @@
+county,fips,nfips,code
+San Francisco,075,75,sfr
+San Mateo,081,81,smt
+Santa Clara,085,85,scl
+Alameda,001,1,ala
+Contra Costa,013,13,cnc
+Solano,095,95,sol
+Napa,055,55,nap
+Sonoma,097,97,son
+Marin,041,41,mar
+Mendocino,045,45,men
+Lake,033,33,lak
+Yolo,113,113,yol
+Sacramento,067,67,sac
+San Joaquin,077,77,sjq
+Stanislaus,099,99,sta
+Merced,047,47,mer
+San Benito,069,69,sbt
+Monterey,053,53,mon
+Santa Cruz,087,87,scr

@@ -1,0 +1,298 @@
+county,juris,joinkey,sumlevel,subarea,has_pda
+Alameda,Alameda,ALA1,Naval Air Station,Other Area-Alameda,TRUE
+Alameda,Alameda,ALA2,Northern Waterfront,Other Area-Alameda,TRUE
+Alameda,Alameda,Non-PDA,Non-PDA,Other Area-Alameda,TRUE
+Alameda,Albany,ALB1,San Pablo & Solano Mixed Use Neighborhood,East Bay Corridor,TRUE
+Alameda,Albany,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Alameda,Berkeley,BER1,Adeline Street,East Bay Corridor,TRUE
+Alameda,Berkeley,BER2,Downtown,East Bay Corridor,TRUE
+Alameda,Berkeley,BER3,San Pablo Avenue,East Bay Corridor,TRUE
+Alameda,Berkeley,BER4,South Shattuck,East Bay Corridor,TRUE
+Alameda,Berkeley,BER5,Southside/Telegraph Avenue,East Bay Corridor,TRUE
+Alameda,Berkeley,BER6,University Avenue,East Bay Corridor,TRUE
+Alameda,Berkeley,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Alameda,Dublin,DUB1,Downtown Specific Plan Area,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Dublin,DUB2,Transit Center/Dublin Crossings,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Dublin,DUB3,Town Center,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Dublin,Non-PDA,Non-PDA,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Emeryville,EME1,Mixed-Use Core,East Bay Corridor,TRUE
+Alameda,Emeryville,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Alameda,Fremont,FRE1,Centerville,East Bay Corridor,TRUE
+Alameda,Fremont,FRE2,City Center,East Bay Corridor,TRUE
+Alameda,Fremont,FRE3,Irvington District,East Bay Corridor,TRUE
+Alameda,Fremont,FRE4,Warm Springs,East Bay Corridor,TRUE
+Alameda,Fremont,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Alameda,Hayward,HAY1,The Cannery,East Bay Corridor,TRUE
+Alameda,Hayward,HAY2,Downtown,East Bay Corridor,TRUE
+Alameda,Hayward,HAY3_a,South Hayward Bay Area Rapid Transit (a),East Bay Corridor,TRUE
+Alameda,Hayward,HAY3_b,South Hayward Bay Area Rapid Transit (b),East Bay Corridor,TRUE
+Alameda,Hayward,HAY4,Mission Boulevard Corridor,East Bay Corridor,TRUE
+Alameda,Hayward,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Alameda,Livermore,LIV1,Downtown,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Livermore,LIV2,East Side,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Livermore,LIV3,Isabel Avenue/Bay Area Rapid Transit Station Planning Area,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Livermore,Non-PDA,Non-PDA,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Newark,NEW1,Dumbarton Transit Oriented Development,East Bay Corridor,TRUE
+Alameda,Newark,NEW2,Old Town Mixed Use Area,East Bay Corridor,TRUE
+Alameda,Newark,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Alameda,Oakland,OKD1,Transit Oriented Development Corridors,3 Cities,TRUE
+Alameda,Oakland,OKD1_a,Transit Oriented Development Corridors San Antonio/Central Estuary,3 Cities,TRUE
+Alameda,Oakland,OKD1_b,Transit Oriented Development Corridors International Boulevard,3 Cities,TRUE
+Alameda,Oakland,OKD2,Coliseum Bay Area Rapid Transit Station Area,3 Cities,TRUE
+Alameda,Oakland,OKD3,Downtown & Jack London Square,3 Cities,TRUE
+Alameda,Oakland,OKD4,Eastmont Town Center,3 Cities,TRUE
+Alameda,Oakland,OKD5,Fruitvale and Dimond Areas,3 Cities,TRUE
+Alameda,Oakland,OKD6,MacArthur Transit Village,3 Cities,TRUE
+Alameda,Oakland,OKD7,West Oakland,3 Cities,TRUE
+Alameda,Oakland,OKD8,Golden Gate/North Oakland,3 Cities,TRUE
+Alameda,Oakland,Non-PDA,Non-PDA,3 Cities,TRUE
+Alameda,Piedmont,Total,Total,Other Area-Alameda,FALSE
+Alameda,Pleasanton,PLE1,Hacienda,Dublin-Pleasanton-Livermore,TRUE
+Alameda,Pleasanton,Non-PDA,Non-PDA,Dublin-Pleasanton-Livermore,TRUE
+Alameda,San Leandro,SLE1,Bay Fair Bay Area Rapid Transit Village,East Bay Corridor,TRUE
+Alameda,San Leandro,SLE2,East 14th Street,East Bay Corridor,TRUE
+Alameda,San Leandro,SLE3,Downtown Transit Oriented Development,East Bay Corridor,TRUE
+Alameda,San Leandro,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Alameda,Union City,UNI1,Intermodal Station District,East Bay Corridor,TRUE
+Alameda,Union City,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Alameda,Alameda County,ALC1,Castro Valley Bay Area Rapid Transit,East Bay Corridor,TRUE
+Alameda,Alameda County,ALC2,East 14th Street and Mission Boulevard,East Bay Corridor,TRUE
+Alameda,Alameda County,ALC3,Hesperian Boulevard,East Bay Corridor,TRUE
+Alameda,Alameda County,ALC4,Meekland Avenue Corridor,East Bay Corridor,TRUE
+Alameda,Alameda County,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Contra Costa,Antioch,ANT1,Hillcrest eBART Station,Other Area-Contra Costa,TRUE
+Contra Costa,Antioch,ANT2,Rivertown Waterfront,Other Area-Contra Costa,TRUE
+Contra Costa,Antioch,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Brentwood,Total,Total,Other Area-Contra Costa,FALSE
+Contra Costa,Clayton,Total,Total,Other Area-Contra Costa,FALSE
+Contra Costa,Concord,CON1_a,Community Reuse Area/Los Medanos (a),Concord-Walnut Creek,TRUE
+Contra Costa,Concord,CON1_b,Community Reuse Area/Los Medanos (b),Concord-Walnut Creek,TRUE
+Contra Costa,Concord,CON2,Downtown,Concord-Walnut Creek,TRUE
+Contra Costa,Concord,Non-PDA,Non-PDA,Concord-Walnut Creek,TRUE
+Contra Costa,Danville,DAN1,Downtown,Other Area-Contra Costa,TRUE
+Contra Costa,Danville,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,El Cerrito,ELC1_a,San Pablo Avenue Corridor (a),East Bay Corridor,TRUE
+Contra Costa,El Cerrito,ELC1_b,San Pablo Avenue Corridor (b),East Bay Corridor,TRUE
+Contra Costa,El Cerrito,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Contra Costa,Hercules,HER1,Central Hercules,East Bay Corridor,TRUE
+Contra Costa,Hercules,HER2,Waterfront District,East Bay Corridor,TRUE
+Contra Costa,Hercules,WCC1_g,West Contra Costa Transportation Advisory Committee San Pablo Avenue Corridor,East Bay Corridor,TRUE
+Contra Costa,Hercules,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Contra Costa,Lafayette,LAF1,Downtown,Other Area-Contra Costa,TRUE
+Contra Costa,Lafayette,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Martinez,1-Mar,Downtown,Other Area-Contra Costa,TRUE
+Contra Costa,Martinez,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Moraga,MOR1,Moraga Center,Other Area-Contra Costa,TRUE
+Contra Costa,Moraga,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Oakley,OAK1,Employment Area,Other Area-Contra Costa,TRUE
+Contra Costa,Oakley,OAK2,Downtown,Other Area-Contra Costa,TRUE
+Contra Costa,Oakley,OAK3,Potential Planning Area,Other Area-Contra Costa,TRUE
+Contra Costa,Oakley,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Orinda,ORI1,Downtown,Other Area-Contra Costa,TRUE
+Contra Costa,Orinda,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Pinole,PIN1,Old Town San Pablo Avenue,East Bay Corridor,TRUE
+Contra Costa,Pinole,PIN2,Appian Way Corridor,East Bay Corridor,TRUE
+Contra Costa,Pinole,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Contra Costa,Pittsburg,PIT1,Railroad Avenue eBART Station,Other Area-Contra Costa,TRUE
+Contra Costa,Pittsburg,PIT2,Downtown,Other Area-Contra Costa,TRUE
+Contra Costa,Pittsburg,CCC3_b,Pittsburg/Bay Point BART Station (b),Other Area-Contra Costa,TRUE
+Contra Costa,Pittsburg,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Pleasant Hill,PLH1,Diablo Valley College,Other Area-Contra Costa,TRUE
+Contra Costa,Pleasant Hill,PLH2,Buskirk Avenue Corridor,Other Area-Contra Costa,TRUE
+Contra Costa,Pleasant Hill,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Richmond,RIC1_a,Central Richmond & 23rd Street Corridor (a),East Bay Corridor,TRUE
+Contra Costa,Richmond,RIC1_b,Central Richmond & 23rd Street Corridor (b),East Bay Corridor,TRUE
+Contra Costa,Richmond,RIC2,South Richmond,East Bay Corridor,TRUE
+Contra Costa,Richmond,WCC1_c,West Contra Costa Transportation Advisory Committee San Pablo Avenue Corridor,East Bay Corridor,TRUE
+Contra Costa,Richmond,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Contra Costa,San Pablo,SPA2,Rumrill Boulevard,East Bay Corridor,TRUE
+Contra Costa,San Pablo,SPA1,San Pablo Avenue & 23rd Street Corridors,East Bay Corridor,TRUE
+Contra Costa,San Pablo,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Contra Costa,San Ramon,SAR1,City Center,Other Area-Contra Costa,TRUE
+Contra Costa,San Ramon,SAR2,North Camino Ramon,Other Area-Contra Costa,TRUE
+Contra Costa,San Ramon,Non-PDA,Non-PDA,Other Area-Contra Costa,TRUE
+Contra Costa,Walnut Creek,WAL1,Core Area,Concord-Walnut Creek,TRUE
+Contra Costa,Walnut Creek,Non-PDA,Non-PDA,Concord-Walnut Creek,TRUE
+Contra Costa,Contra Costa County,CCC1,Contra Costa Centre,East Bay Corridor,TRUE
+Contra Costa,Contra Costa County,CCC2,North Richmond,East Bay Corridor,TRUE
+Contra Costa,Contra Costa County,CCC3_a,Pittsburg/Bay Point BART Station (a),Other Area-Contra Costa,TRUE
+Contra Costa,Contra Costa County,CCC4,Downtown El Sobrante,East Bay Corridor,TRUE
+Contra Costa,Contra Costa County,WCC1_a,West Contra Costa Transportation Advisory Committee San Pablo Avenue Corridor,East Bay Corridor,TRUE
+Contra Costa,Contra Costa County,Non-PDA,Non-PDA,East Bay Corridor,TRUE
+Marin,Belvedere,Total,Total,Other Area-Marin,FALSE
+Marin,Corte Madera,Total,Total,Other Area-Marin,FALSE
+Marin,Fairfax,Total,Total,Other Area-Marin,FALSE
+Marin,Larkspur,Total,Total,Other Area-Marin,FALSE
+Marin,Mill Valley,Total,Total,Other Area-Marin,FALSE
+Marin,Novato,Total,Total,Other Area-Marin,FALSE
+Marin,Ross,Total,Total,Other Area-Marin,FALSE
+Marin,San Anselmo,Total,Total,Other Area-Marin,FALSE
+Marin,San Rafael,SRA1,Downtown,Other Area-Marin,TRUE
+Marin,San Rafael,Non-PDA,Non-PDA,Other Area-Marin,TRUE
+Marin,Sausalito,Total,Total,Other Area-Marin,FALSE
+Marin,Tiburon,Total,Total,Other Area-Marin,FALSE
+Marin,Marin County,MCO1,Urbanized 101 Corridor,Other Area-Marin,TRUE
+Marin,Marin County,Non-PDA,Non-PDA,Other Area-Marin,TRUE
+Napa,American Canyon,ACA1,Highway 29 Corridor,Other Area-Napa,TRUE
+Napa,American Canyon,Non-PDA ,Non-PDA ,Other Area-Napa,TRUE
+Napa,Calistoga,Total,Total,Other Area-Napa,FALSE
+Napa,Napa,NAP1,Downtown Napa and Soscol Gateway Corridor,Other Area-Napa,TRUE
+Napa,Napa,Non-PDA ,Non-PDA ,Other Area-Napa,TRUE
+Napa,St. Helena,Total,Total,Other Area-Napa,FALSE
+Napa,Yountville,Total,Total,Other Area-Napa,FALSE
+Napa,Napa County,Total,Total,Other Area-Napa,FALSE
+San Francisco,San Francisco,SFO1,Bayview/Hunters Point Shipyard/Candlestick Point,3 Cities,TRUE
+San Francisco,San Francisco,SFO10,19th Avenue,3 Cities,TRUE
+San Francisco,San Francisco,SFO11,Market & Octavia,3 Cities,TRUE
+San Francisco,San Francisco,SFO12,Mission-San Jose Corridor,3 Cities,TRUE
+San Francisco,San Francisco,SFO2,Balboa Park,3 Cities,TRUE
+San Francisco,San Francisco,SFO3,Downtown-Van Ness-Geary,3 Cities,TRUE
+San Francisco,San Francisco,SFO4,Eastern Neighborhoods,3 Cities,TRUE
+San Francisco,San Francisco,SFO5,Mission Bay,3 Cities,TRUE
+San Francisco,San Francisco,SFO6,Port of San Francisco,3 Cities,TRUE
+San Francisco,San Francisco,SFO7,Transit Center District,3 Cities,TRUE
+San Francisco,San Francisco,SFO8,Treasure Island & Yerba Buena Island,3 Cities,TRUE
+San Francisco,San Francisco,SFO9_b,San Francisco/San Mateo Bi-County Area,3 Cities,TRUE
+San Francisco,San Francisco,Non-PDA,Non-PDA,3 Cities,TRUE
+San Mateo,Atherton,Total,Total,West Bay Corridor,FALSE
+San Mateo,Belmont,BEL1,Villages of Belmont,West Bay Corridor,TRUE
+San Mateo,Belmont,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,Brisbane,SFO9_a,San Francisco/San Mateo Bi-County Area,West Bay Corridor,TRUE
+San Mateo,Brisbane,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,Burlingame,BUR1,Burlingame El Camino Real,West Bay Corridor,TRUE
+San Mateo,Burlingame,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,Colma,CCG1_b,El Camino Real,West Bay Corridor,TRUE
+San Mateo,Colma,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,Daly City,DAL1,Mission Boulevard,West Bay Corridor,TRUE
+San Mateo,Daly City,DAL2,Bayshore,West Bay Corridor,TRUE
+San Mateo,Daly City,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,East Palo Alto,EPA1,Ravenswood,West Bay Corridor,TRUE
+San Mateo,East Palo Alto,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,Foster City,Total,Total,West Bay Corridor,FALSE
+San Mateo,Half Moon Bay,Total,Total,Other Area-San Mateo,FALSE
+San Mateo,Hillsborough,Total,Total,West Bay Corridor,FALSE
+San Mateo,Menlo Park,MEN1,El Camino Real Corridor and Downtown,West Bay Corridor,TRUE
+San Mateo,Menlo Park,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,Millbrae,MIL1,Transit Station Area,West Bay Corridor,TRUE
+San Mateo,Millbrae,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,Pacifica,Total,Total,Other Area-San Mateo,FALSE
+San Mateo,Portola Valley,Total,Total,Other Area-San Mateo,FALSE
+San Mateo,Redwood City,RWC1,Downtown,West Bay Corridor,TRUE
+San Mateo,Redwood City,RWC2,Broadway/Veterens Boulevard Corridor,West Bay Corridor,TRUE
+San Mateo,Redwood City,RWC3,El Camino Real Corridor,West Bay Corridor,TRUE
+San Mateo,Redwood City,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,San Bruno,SBR1,Transit Corridors,West Bay Corridor,TRUE
+San Mateo,San Bruno,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,San Carlos,SCA1,Railroad Corridor,West Bay Corridor,TRUE
+San Mateo,San Carlos,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,San Mateo,SMA1,Downtown,West Bay Corridor,TRUE
+San Mateo,San Mateo,SMA2,Rail Corridor,West Bay Corridor,TRUE
+San Mateo,San Mateo,SMA3,El Camino Real,West Bay Corridor,TRUE
+San Mateo,San Mateo,SMA4,Grand Boulevard Initiative,West Bay Corridor,TRUE
+San Mateo,San Mateo,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,South San Francisco,CCG1_c,El Camino Real,West Bay Corridor,TRUE
+San Mateo,South San Francisco,SSF1,Downtown,West Bay Corridor,TRUE
+San Mateo,South San Francisco,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+San Mateo,Woodside,Total,Total,Other Area-San Mateo,FALSE
+San Mateo,San Mateo County,CCG1_k,El Camino Real (Unincorporated Colma),West Bay Corridor,TRUE
+San Mateo,San Mateo County,CCG1_l,El Camino Real (North Fair Oaks),West Bay Corridor,TRUE
+San Mateo,San Mateo County,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+Santa Clara,Campbell,CAM1,Central Redevelopment Area,West Bay Corridor,TRUE
+Santa Clara,Campbell,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+Santa Clara,Cupertino,VTA1_b,"Santa Clara Valley Transportation Authority City Cores, Corridors & Station Areas",West Bay Corridor,TRUE
+Santa Clara,Cupertino,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+Santa Clara,Gilroy,GIL1,Downtown,Other Area-Santa Clara,TRUE
+Santa Clara,Gilroy,VTA1_c,"Santa Clara Valley Transportation Authority City Cores, Corridors & Station Areas",Other Area-Santa Clara,TRUE
+Santa Clara,Gilroy,Non-PDA,Non-PDA,Other Area-Santa Clara,TRUE
+Santa Clara,Los Altos,VTA1_d,"Santa Clara Valley Transportation Authority City Cores, Corridors & Station Areas",West Bay Corridor,TRUE
+Santa Clara,Los Altos,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+Santa Clara,Los Altos Hills,Total,Total,Other Area-Santa Clara,FALSE
+Santa Clara,Los Gatos,Total,Total,Other Area-Santa Clara,FALSE
+Santa Clara,Milpitas,MPT1,Transit Area,Other Area-Santa Clara,TRUE
+Santa Clara,Milpitas,VTA1_f,"Santa Clara Valley Transportation Authority City Cores, Corridors & Station Areas",Other Area-Santa Clara,TRUE
+Santa Clara,Milpitas,Non-PDA,Non-PDA,Other Area-Santa Clara,TRUE
+Santa Clara,Monte Sereno,Total,Total,Other Area-Santa Clara,FALSE
+Santa Clara,Morgan Hill,MOH1,Downtown,Other Area-Santa Clara,TRUE
+Santa Clara,Morgan Hill,Non-PDA,Non-PDA,Other Area-Santa Clara,TRUE
+Santa Clara,Mountain View,MVW1,Whisman Station,West Bay Corridor,TRUE
+Santa Clara,Mountain View,MVW2,Downtown,West Bay Corridor,TRUE
+Santa Clara,Mountain View,MVW3,San Antonio,West Bay Corridor,TRUE
+Santa Clara,Mountain View,MVW4,El Camino Real,West Bay Corridor,TRUE
+Santa Clara,Mountain View,MVW6,North Bayshore,West Bay Corridor,TRUE
+Santa Clara,Mountain View,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+Santa Clara,Palo Alto,PAL1,California Avenue,West Bay Corridor,TRUE
+Santa Clara,Palo Alto,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+Santa Clara,San Jose,SJO1,Greater Downtown,3 Cities,TRUE
+Santa Clara,San Jose,SJO10,Oakridge/Almaden Plaza Urban Village,3 Cities,TRUE
+Santa Clara,San Jose,SJO11,Capitol/Tully/King Urban Villages,3 Cities,TRUE
+Santa Clara,San Jose,SJO12,Saratoga Transit Oriented Development Corridor,3 Cities,TRUE
+Santa Clara,San Jose,SJO13,Winchester Boulevard Transit Oriented Development Corridor,3 Cities,TRUE
+Santa Clara,San Jose,SJO14,Bascom Transit Oriented Development Corridor,3 Cities,TRUE
+Santa Clara,San Jose,SJO15,Bascom Urban Village,3 Cities,TRUE
+Santa Clara,San Jose,SJO16,Camden Urban Village,3 Cities,TRUE
+Santa Clara,San Jose,SJO17,Blossom Hill/Snell Urban Village,3 Cities,TRUE
+Santa Clara,San Jose,SJO18,Capitol Corridor Urban Villages,3 Cities,TRUE
+Santa Clara,San Jose,SJO19,Westgate/El Paseo Urban Village,3 Cities,TRUE
+Santa Clara,San Jose,SJO2,Cottle Transit Village (Hitachi),3 Cities,TRUE
+Santa Clara,San Jose,SJO3,North San Jose,3 Cities,TRUE
+Santa Clara,San Jose,SJO4,"Downtown """"Frame""""",3 Cities,TRUE
+Santa Clara,San Jose,SJO5,Berryessa Station,3 Cities,TRUE
+Santa Clara,San Jose,SJO6,Communications Hill,3 Cities,TRUE
+Santa Clara,San Jose,SJO7,West San Carlos and Southwest Expressway Corridors,3 Cities,TRUE
+Santa Clara,San Jose,SJO8,East Santa Clara/Alum Rock Corridor,3 Cities,TRUE
+Santa Clara,San Jose,SJO9,Stevens Creek Transit Oriented Development Corridor,3 Cities,TRUE
+Santa Clara,San Jose,VTA1_i,"Santa Clara Valley Transportation Authority City Cores, Corridors & Station Areas",3 Cities,TRUE
+Santa Clara,San Jose,Non-PDA,Non-PDA,3 Cities,TRUE
+Santa Clara,Santa Clara,SCL1,El Camino Real Focus Area,West Bay Corridor,TRUE
+Santa Clara,Santa Clara,SCL2,Santa Clara Station Focus Area,West Bay Corridor,TRUE
+Santa Clara,Santa Clara,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+Santa Clara,Saratoga,Total,Total,Other Area-Santa Clara,FALSE
+Santa Clara,Sunnyvale,SUN1,Lawrence Station Transit Village,West Bay Corridor,TRUE
+Santa Clara,Sunnyvale,SUN2,Downtown & Caltrain Station,West Bay Corridor,TRUE
+Santa Clara,Sunnyvale,SUN3,El Camino Real Corridor,West Bay Corridor,TRUE
+Santa Clara,Sunnyvale,SUN6,East Sunnyvale,West Bay Corridor,TRUE
+Santa Clara,Sunnyvale,SUN8,Tasman Crossing,West Bay Corridor,TRUE
+Santa Clara,Sunnyvale,Non-PDA,Non-PDA,West Bay Corridor,TRUE
+Santa Clara,Santa Clara County,Total,Total,Other Area-Santa Clara,FALSE
+Solano,Benicia,BEN1,Downtown,Other Area-Solano,TRUE
+Solano,Benicia,BEN2,Northern Gateway - Benicia's Industrial Park,Other Area-Solano,TRUE
+Solano,Benicia,Non-PDA,Non-PDA,Other Area-Solano,TRUE
+Solano,Dixon,DIX1,Downtown,Other Area-Solano,TRUE
+Solano,Dixon,Non-PDA,Non-PDA,Other Area-Solano,TRUE
+Solano,Fairfield,FAI1,Downtown South (Jefferson Street),Other Area-Solano,TRUE
+Solano,Fairfield,FAI2,Fairfield-Vacaville Train Station,Other Area-Solano,TRUE
+Solano,Fairfield,FAI3,North Texas Street Core,Other Area-Solano,TRUE
+Solano,Fairfield,FAI4,West Texas Street Gateway,Other Area-Solano,TRUE
+Solano,Fairfield,Non-PDA,Non-PDA,Other Area-Solano,TRUE
+Solano,Rio Vista,Total,Total,Other Area-Solano,FALSE
+Solano,Suisun City,SUI1,Downtown & Waterfront,Other Area-Solano,TRUE
+Solano,Suisun City,Non-PDA,Non-PDA,Other Area-Solano,TRUE
+Solano,Vacaville,VAC1,Downtown,Other Area-Solano,TRUE
+Solano,Vacaville,VAC2,Allison Area,Other Area-Solano,TRUE
+Solano,Vacaville,Non-PDA,Non-PDA,Other Area-Solano,TRUE
+Solano,Vallejo,VAL1,Waterfront & Downtown,Other Area-Solano,TRUE
+Solano,Vallejo,VAL2,Sonoma Boulevard,Other Area-Solano,TRUE
+Solano,Vallejo,Non-PDA,Non-PDA,Other Area-Solano,TRUE
+Solano,Solano County,Total,Total,Other Area-Solano,FALSE
+Sonoma,Cloverdale,CLO1,Downtown/SMART Transit Area,Other Area-Sonoma,TRUE
+Sonoma,Cloverdale,Non-PDA,Non-PDA,Other Area-Sonoma,TRUE
+Sonoma,Cotati,COT1,Downtown and Cotati Depot,Other Area-Sonoma,TRUE
+Sonoma,Cotati,Non-PDA,Non-PDA,Other Area-Sonoma,TRUE
+Sonoma,Healdsburg,Total,Total,Other Area-Sonoma,FALSE
+Sonoma,Petaluma,PET1,"Central, Turning Basin/Lower Reach",Other Area-Sonoma,TRUE
+Sonoma,Petaluma,Non-PDA,Non-PDA,Other Area-Sonoma,TRUE
+Sonoma,Rohnert Park,ROH1,Sonoma Mountain Village,Other Area-Sonoma,TRUE
+Sonoma,Rohnert Park,ROH2,Central Rohnert Park,Other Area-Sonoma,TRUE
+Sonoma,Rohnert Park,Non-PDA,Non-PDA,Other Area-Sonoma,TRUE
+Sonoma,Santa Rosa,SRO1,Downtown Station Area,Santa Rosa,TRUE
+Sonoma,Santa Rosa,SRO2,Mendocino Avenue/Santa Rosa Avenue Corridor,Santa Rosa,TRUE
+Sonoma,Santa Rosa,SRO3,Sebastopol Road Corridor,Santa Rosa,TRUE
+Sonoma,Santa Rosa,SRO4,North Santa Rosa Station,Santa Rosa,TRUE
+Sonoma,Santa Rosa,SRO5,Roseland,Santa Rosa,TRUE
+Sonoma,Santa Rosa,Non-PDA,Non-PDA,Santa Rosa,TRUE
+Sonoma,Sebastopol,SEB1,Core Area,Other Area-Sonoma,TRUE
+Sonoma,Sebastopol,Non-PDA,Non-PDA,Other Area-Sonoma,TRUE
+Sonoma,Sonoma,Total,Total,Other Area-Sonoma,FALSE
+Sonoma,Windsor,WIN1,Redevelopment Area,Other Area-Sonoma,TRUE
+Sonoma,Windsor,Non-PDA,Non-PDA,Other Area-Sonoma,TRUE
+Sonoma,Sonoma County,Total,Total,Other Area-Sonoma,FALSE

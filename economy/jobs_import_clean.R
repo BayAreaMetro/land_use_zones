@@ -9,7 +9,17 @@ naics_recode <- read_csv("/Volumes/osaka/w/land_use_zones/economy/naics_recode.c
 est15_esri_raw$naicssix = est15_esri_raw$NAICS %/% 100
 
 est15_codes <- left_join(est15_esri_raw, naics_recode, by = "naicssix")
-(est15_codes <- left_join(est15_esri_raw, naics_recode))
+
+# drop missing
+
+
+
+
 
 est15_summ <- ddply(est15_codes, c("maz", "shcat"), summarise,
                emp    = sum(empnum)
+               
+              
+               
+#adjust
+               

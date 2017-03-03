@@ -7,11 +7,13 @@ library(readr)
 est15_esri_raw <- read_csv("/Volumes/osaka/w/land_use_zones/economy/rawdata/est15_esri_raw.csv")
 naics_recode <- read_csv("/Volumes/osaka/w/land_use_zones/economy/naics_recode.csv")
 geofile <- read_csv("/Volumes/osaka/w/land_use_zones/geofile.csv")
+maz <- read_csv("/Volumes/osaka/w/land_use_zones/maz.csv")
 
 # make 6-digit NAICS
 est15_esri_raw$naicssix = est15_esri_raw$NAICS %/% 100
 est15_esri_raw$emp <- as.integer(est15_esri_raw$EMPNUM)
 summary(est15_esri_raw)
+str(est15_esri_raw)
 
 est15_codes <- left_join(est15_esri_raw, naics_recode, by = "naicssix")
 

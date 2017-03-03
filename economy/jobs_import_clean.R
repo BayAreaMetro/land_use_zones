@@ -106,6 +106,8 @@ e_mis <- filter(sum, shcat == 'mis')
 e_mis <- transmute(e_mis,
                     e_mis = n)
 
+# redo w maz geog attr not geofile cause geofile has 2 extra records that must be duplicates
+
 mazlist <- select(geofile, MAZ)
 
 est15_maz <- full_join(mazlist, e_ag, by = "MAZ")
@@ -137,7 +139,10 @@ est15_maz <- full_join(est15_maz, e_eat, by = "MAZ")
 est15_maz <- full_join(est15_maz, e_gov, by = "MAZ")
 est15_maz <- full_join(est15_maz, e_mis, by = "MAZ")
 
-write_csv(est15_maz, "/Volumes/osaka/w/land_use_zones/economy/rawdata/emp15_maz.csv" )
+est15_maz[is.na(est15_maz)] <- 0 
+
+
+write_csv(est15_maz, "/Volumes/osaka/w/land_use_zones/out/emp15_shcat_maz.csv" )
 
 
 

@@ -1,4 +1,6 @@
-install.packages("dplyr")
+# install.packages("plyr")
+# install.packages("dplyr")
+library(plyr)
 library(dplyr)
 library(readr)
 
@@ -12,14 +14,47 @@ est15_codes <- left_join(est15_esri_raw, naics_recode, by = "naicssix")
 
 # drop missing
 
+  sumby <- est15_codes %>%
+  group_by(MAZ_ORIGINAL, shcat) %>%
+  tally(EMPNUM)
+
+summary(sum)
+# write_csv(sum, "/Volumes/osaka/w/land_use_zones/economy/rawdata/emp15_maz.csv" )
+
+e_ag <- filter(sum, shcat == 'ag')
+e_ag <- transmute(e_ag,
+                    emp_ag = n)
+e_natres <- filter(sum, shcat == 'natres')
+e_natres <- transmute(e_natres,
+                  emp_natres = n)
+e_util <- filter(sum, shcat == 'util')
+e_util <- transmute(e_util,
+          emp_util = n)
+
+est15_maz <- full_join(e_ag, e_natres, by = "MAZ_ORIGINAL")
 
 
 
 
-est15_summ <- ddply(est15_codes, c("maz", "shcat"), summarise,
-               emp    = sum(empnum)
+
+# select to clean if needed
+
+# arrange to sort
+
+
+
+#########
+grouped <- group_by(est15_codes$MAZ_ORIGINAL, est15_codes$shcat)
+
+
+
+est15_summ <- ddply(est15_codes, c("maz", "shcat"), function(x) c(count=nrow(x)), emp = sum(empnum))
                
               
                
+
+                                                                  
+                                                                  
+
 #adjust
                

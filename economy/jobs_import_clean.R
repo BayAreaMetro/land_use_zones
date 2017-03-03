@@ -112,7 +112,7 @@ e_mis <- transmute(e_mis,
 
 # redo w maz geog attr not geofile cause geofile has 2 extra records that must be duplicates
 
-mazlist <- select(geofile, MAZ)
+mazlist <- select(maz, MAZ)
 
 est15_maz <- full_join(mazlist, e_ag, by = "MAZ")
 est15_maz <- full_join(est15_maz, e_natres, by = "MAZ")

@@ -10,7 +10,8 @@ geofile <- read_csv("/Volumes/osaka/w/land_use_zones/geofile.csv")
 
 # make 6-digit NAICS
 est15_esri_raw$naicssix = est15_esri_raw$NAICS %/% 100
-est15_esri_raw$EMPNUM <- as.integer(est15_esri_raw$EMPNUM)
+est15_esri_raw$emp <- as.integer(est15_esri_raw$EMPNUM)
+summary(est15_esri_raw)
 
 est15_codes <- left_join(est15_esri_raw, naics_recode, by = "naicssix")
 
@@ -18,7 +19,7 @@ est15_codes <- left_join(est15_esri_raw, naics_recode, by = "naicssix")
 
   sum <- est15_codes %>%
   group_by(MAZ, shcat) %>%
-  tally(EMPNUM)
+  tally(emp)
 
 summary(sum)
 

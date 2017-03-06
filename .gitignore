@@ -1,2 +1,3 @@
 *.dbf
-
+*Rdata
+.Rproj.user

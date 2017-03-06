@@ -9,10 +9,10 @@ xwalk_taz_maz_blk10 <- read_csv("./rawdata/GeogXWalk2010_Blocks_MAZ_TAZ.csv")
 xwalk_taz_maz_blk00 <- read_csv("./rawdata/GeogXWalk2000_Blocks_MAZ_TAZ.csv")
 maz <- read_csv("../maz.csv")
 
-ca_gq_blk10 <- filter(gq_blk10, STATEA == '06' & COUNTYA %in% c('075', '081', '085', '001', '013', '095', '055', '097', '041'))
+ba_gq_blk10 <- filter(gq_blk10, STATEA == '06' & COUNTYA %in% c('075', '081', '085', '001', '013', '095', '055', '097', '041'))
+str(ba_gq_blk10)
 
-str(ca_gq_blk10)
-
+tazmazblk10 <- left_join(xwalk_taz_maz_blk10, ba_gq_blk10, by = c("GEOID10" = "GISJOIN"))
 
 
 
@@ -22,7 +22,6 @@ est15_esri_raw$emp <- as.integer(est15_esri_raw$EMPNUM)
 summary(est15_esri_raw)
 str(eca_gq_blk10)
 
-est15_codes <- left_join(est15_esri_raw, naics_recode, by = "naicssix")
 
 # drop missing
 

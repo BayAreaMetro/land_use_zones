@@ -61,6 +61,11 @@ gq$mil00 <- gq$gq_mil00
 gq$othnon00 <- gq$othnon05 + gq$add_othnon_0005
 
 gq_out <- select(gq, MAZ, univ15, mil15, othnon15,univ10, mil10, othnon10, univ05, mil05, othnon05, univ00, mil00, othnon00)
+gq_out[is.na(gq_out)] <- 0 
+
+
+write_csv(gq_out, "../out/gq00051015_maz.csv" )
+
 
 
 #      univ mil oth inst 
@@ -69,43 +74,5 @@ gq_out <- select(gq, MAZ, univ15, mil15, othnon15,univ10, mil10, othnon10, univ0
 # 10    39933 1959 46310 59478 = 147,680 (137800 in 1 yr acs)
 # 00    25103 2931 47820 66934 = 
 #       man   none 1.03
-
-
-
-
-
-
-
-# make 6-digit NAICS
-est15_esri_raw$naicssix = est15_esri_raw$NAICS %/% 100
-est15_esri_raw$emp <- as.integer(est15_esri_raw$EMPNUM)
-summary(est15_esri_raw)
-str(eca_gq_blk10)
-
-
-# drop missing
-
-sum <- est15_codes %>%
-  group_by(MAZ, shcat) %>%
-  tally(emp)
-
-summary(sum)
-
-e_ag <- filter(sum, shcat == 'ag')
-e_ag <- transmute(e_ag,
-                  e_ag = n)
-
-
-# redo w maz geog attr not geofile cause geofile has 2 extra records that must be duplicates
-
-mazlist <- select(maz, MAZ)
-
-est15_maz <- full_join(mazlist, e_ag, by = "MAZ")
-
-
-est15_maz[is.na(est15_maz)] <- 0 
-
-
-write_csv(est15_maz, "/Volumes/osaka/w/land_use_zones/out/emp15_shcat_maz.csv" )
 
 

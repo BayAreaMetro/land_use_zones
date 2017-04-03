@@ -16,16 +16,16 @@ maz <- read_csv("../maz.csv")
 ba_gq_blkgrp10 <- filter(gq_blkgrp10, STATEA == '06' & COUNTYA %in% c('075', '081', '085', '001', '013', '095', '055', '097', '041'))
 str(ba_gq_blkgrp10)
 rename(ba_gq_blkgrp10, gq_univ10 = CQ2AD2010)
-r
+
 
 # xwalk_taz_maz_blk10$GISJOIN <- paste("G", xwalk_taz_maz_blk10$GEOID10, sep="")
 # xwalk_taz_maz_blk10$gisjoin <- tail(xwalk_taz_maz_blk10$GEOID10, 13)
 
 
-substrRight <- function(x, n){
-  substr(x, nchar(x)-n+1, nchar(x))
-}
-ba_gq_blk10$gj <- substrRight(ba_gq_blk10$GISJOIN, 6)
+# substrRight <- function(x, n){
+#  substr(x, nchar(x)-n+1, nchar(x))
+# }
+# ba_gq_blk10$gj <- substrRight(ba_gq_blk10$GISJOIN, 6)
 
 
 tazmazblk10 <- left_join(xwalk_taz_maz_blk10, gq_blk10, by = c("GEOID10" = "GEOID10"))

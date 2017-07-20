@@ -1,3 +1,4 @@
 *.dbf
 *Rdata
+*RDataTmp
 .Rproj.user
